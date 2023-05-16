@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/w0073slupvk8ohlo?svg=true)](https://ci.appveyor.com/project/Aleks282/pageobject)
 
 # Домашнее задание к занятию «2.4. BDD»
 
